@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-12-10T21:22:15.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" version="20.6.2" etag="lhBQxwK7GCcYhdvexqRg" type="github"><diagram id="BlXtqsIH5l5EG1k6f-Bd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-11T04:50:38.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" version="20.6.2" etag="EmlVBpc87N7ZSsDWklwI" type="github">
+  <diagram id="dW0fPYe20gH7AuMmRKdI" name="第 1 页">
+    <mxGraphModel dx="1618" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XA5RPoPfARZnthLd-R07-1" value="fe" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-2" value="backend-offline-web" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-3" value="backend-online-web" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-4" value="aicp-nlu-offline" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-5" value="aicp-nlu-online" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-6" value="nlu-offline" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="423" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-7" value="nlu-online" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="423" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-8" value="ngd-libreoffice-collabora-code" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="580" y="423" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-9" value="unitfaq" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="760" y="423" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-13" value="core-online" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="353" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-14" value="core-offline" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="353" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-17" value="nlu-faq-online" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="500" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-18" value="nlu-faq-offline" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="500" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-20" value="nlu-entity-online" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="580" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-21" value="nlu-entity-offline" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="580" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-22" value="nlu-basic-online" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="660" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-23" value="nlu-basic-offline" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="660" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-24" value="nlu-sentiment-online" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="740" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-25" value="nlu-sentiment-offline" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="740" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-26" value="nlu-similarity-online" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="820" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-27" value="nlu-similarity-offline" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="820" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-28" value="nlu-template-online" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="897" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-29" value="nlu-template-offline" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="897" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-30" value="nlu-wordseg-online" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="970" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XA5RPoPfARZnthLd-R07-31" value="nlu-wordseg-offline" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="400" y="970" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
