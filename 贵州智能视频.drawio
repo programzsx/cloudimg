@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T07:49:39.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" version="20.6.2" etag="XU_2GG3wvss-1Wno_NgN" type="github"><diagram id="eCGFmk5sLmb4wA9lRlDm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-12T08:09:47.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.37" version="20.6.2" etag="g4egf63xKvhBelQX1SZ7" type="github">
+  <diagram id="o8pEMcrgc6yfI9Lq7gwz" name="第 1 页">
+    <mxGraphModel dx="786" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="630" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="130" width="480" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="WZ1IEcc06UdxzMD3UaFQ-18">
+          <mxGeometry width="480" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-1" value="IVR" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="WZ1IEcc06UdxzMD3UaFQ-18">
+          <mxGeometry x="200" y="245" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-2" value="策略中心" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="WZ1IEcc06UdxzMD3UaFQ-18">
+          <mxGeometry x="200" y="124" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="WZ1IEcc06UdxzMD3UaFQ-18" source="WZ1IEcc06UdxzMD3UaFQ-1" target="WZ1IEcc06UdxzMD3UaFQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-6" value="通信云机器人" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="WZ1IEcc06UdxzMD3UaFQ-18">
+          <mxGeometry x="53" y="45" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;exitX=0;exitY=0.5;exitDx=0;exitDy=0;sketch=1;" edge="1" parent="WZ1IEcc06UdxzMD3UaFQ-18" source="WZ1IEcc06UdxzMD3UaFQ-2" target="WZ1IEcc06UdxzMD3UaFQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;dashed=1;" edge="1" parent="WZ1IEcc06UdxzMD3UaFQ-18" source="WZ1IEcc06UdxzMD3UaFQ-7" target="WZ1IEcc06UdxzMD3UaFQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-7" value="导航机器人" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="WZ1IEcc06UdxzMD3UaFQ-18">
+          <mxGeometry x="342" y="45" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;sketch=1;" edge="1" parent="WZ1IEcc06UdxzMD3UaFQ-18" source="WZ1IEcc06UdxzMD3UaFQ-2" target="WZ1IEcc06UdxzMD3UaFQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-11" value="视频业务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="WZ1IEcc06UdxzMD3UaFQ-18">
+          <mxGeometry x="63" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-13" value="音频业务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="WZ1IEcc06UdxzMD3UaFQ-18">
+          <mxGeometry x="352" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-17" value="&lt;font color=&quot;#0000ff&quot;&gt;音频业务、用户流量逐渐迁移&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Comic Sans MS;" vertex="1" parent="WZ1IEcc06UdxzMD3UaFQ-18">
+          <mxGeometry x="170" y="35" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;sketch=1;fontFamily=Comic Sans MS;fontColor=#3333FF;entryX=0.551;entryY=-0.057;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="WZ1IEcc06UdxzMD3UaFQ-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="100" as="sourcePoint" />
+            <mxPoint x="400" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WZ1IEcc06UdxzMD3UaFQ-20" value="&lt;p style=&quot;line-height: 180%;&quot;&gt;&lt;font color=&quot;#333333&quot;&gt;1、先将全量导航业务迁移到通信云机器人&lt;br&gt;2、然后逐渐将用户分流到通信云机器人&lt;/font&gt;&lt;font color=&quot;#ff3333&quot;&gt;（两套机器人共存状态）&lt;/font&gt;：&lt;font color=&quot;#ff3333&quot;&gt;共存期间的需求承接原则&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#009900;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Comic Sans MS;fontColor=#3333FF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="530" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
